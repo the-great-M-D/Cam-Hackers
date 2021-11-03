@@ -8,7 +8,7 @@ Hack Cameras
 
 * apt-get install git
 
-* git clone https://github.com/AngelSecurityTeam/Cam-Hackers
+* git clone https://github.com/the-great-M-D/Cam-Hackers
 
 * pip3 install requests
 
@@ -28,4 +28,4 @@ Hack Cameras
 
 <h3> Paypal donations: </h3>
 
-* https://www.paypal.com/paypalme/AngelSecTeam
+* "working on that 🙏 "
